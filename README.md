@@ -1,18 +1,32 @@
-## Getting Started
+# Calculadora IMC 🧮
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao projeto de Calculadora de Índice de Massa Corporal (IMC)! Este projeto é foi desenvolvido para praticar e aprimorar meus conhecimentos na Linguagem Golang.
 
-## Folder Structure
+## O que é IMC? 🤔
 
-The workspace contains two folders by default, where:
+O Índice de Massa Corporal (IMC) é uma medida que usa a altura e o peso de uma pessoa para determinar se ela está dentro de uma faixa saudável. Ele é calculado da seguinte maneira:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Como Usar a Calculadora 🖩
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. **Insira seu peso** (em kg): 
 
-## Dependency Management
+2. **Insira sua altura** (em metros): 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. **Veja seu IMC** e a classificação correspondente! 🏅
+
+## Exemplo de Uso 🎯
+
+Suponha que você pesa 70 kg e tem 1,75 m de altura. A fórmula ficaria assim: 
+
+R: 70 / (1.75 * 1.75) = 22.86
+
+Neste caso, seu IMC está na faixa de **Peso normal**! 👍
+
+## Nota Importante 📢
+
+Lembre-se de que o IMC é apenas uma ferramenta de triagem e não leva em consideração fatores como composição corporal e distribuição de gordura. Sempre consulte um profissional de saúde para uma avaliação mais completa. 🩺
+
+## Desenvolvimento 🚀
+
+Este projeto foi desenvolvido com a Linguagem Golang.
