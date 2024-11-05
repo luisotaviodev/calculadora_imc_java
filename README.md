@@ -1,6 +1,6 @@
 # Calculadora IMC 🧮
 
-Bem-vindo ao projeto de Calculadora de Índice de Massa Corporal (IMC)! Este projeto é foi desenvolvido para praticar e aprimorar meus conhecimentos na Linguagem Golang.
+Bem-vindo ao projeto de Calculadora de Índice de Massa Corporal (IMC)! Este projeto é foi desenvolvido para praticar e aprimorar meus conhecimentos na Linguagem Java.
 
 ## O que é IMC? 🤔
 
